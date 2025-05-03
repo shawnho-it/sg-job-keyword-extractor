@@ -1,0 +1,364 @@
+title,company,url,description
+DevOps Engineer (AWS Cloud / Kubernetes / Docker),SCIENTEC CONSULTING PTE. LTD.,https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-scientec-consulting-b67fdf0cf371b3479cc4f1b55d66a013?source=MCF&event=Search,"Roles & Responsibilities
+We have a great opportunity for a talented and self-motivated DevOps Engineer to join our team. You will work together in a team that are responsible for automated deployments, ensuring highest reliability and scalability processes for serving the needs from different departments.
+Working Hours: Mon-Fri
+Working Location: Singapore
+Salary Package: Up to $7500 (basic) + AWS + VB
+Responsibilities
+Collaborate with various teams that includes Development/Infra/Products to ensure successful delivery, maintenance planning and correction of build errors.
+Day-to-day monitoring, backup, deployment and maintenance of systems
+Develop/build/maintain continuous integration/deployment (CI/CD) pipelines and automated testing to support high quality software build in a continuous build/deploy environment (Jenkins Pipeline/Library)
+Writing scripts/programs for service monitoring and health check of systems which perform automated integration flow and alerting.
+Automate and build up scalable systems/environment using latest technologies (e.g. Kubernetes) with infrastructure-as-code and GitOps strategy
+Automate security hardening in testing, deployment and production setup based on industrial best practices
+Provide technical insights for the design and implementation of solutions.
+Promote a Dev Ops culture through building relationships with Development & Operations and driving enhancements to the end-to-end release process (workstation to production).
+Continuously identifying new tools, ideas to improve whole process of Production systems.
+Any other duties assigned by the Team Lead/Solution Architect
+Requirements
+At least 3 years of relevant experience in devops and cloud platform: AWS/GCP/Azure (e.g. AWS: EC2, RDS, ELB, EFS, ELK, ElasticCache, S3, VPC, IAM, CloudWatch, KMS, AMK, EKS, MSK)
+Experienced with building and setting up high velocity and reliable CI/CD pipeline using tools/platforms such as Jenkins, Gitlab, Nexus, Maven, Spinnaker
+Proficiency with containers and cloud orchestration tools such as Docker, Kubernetes
+Hands on Infrastructure-as-Code control using tools such as Ansible AWX/Tower, RunDeck, Chef, Terraform, Puppet, Cloudformation and so on
+Ability to automate repeatable processes via scripts (e.g. via Terraform, bash, Powershell, Ruby, JS, Python, Groovy, etc.)
+AWS certification will be an added advantage
+By submitting your resume, you consent to the collection, use, and disclosure of your personal information per ScienTec’s Privacy Policy (scientecconsulting.com/privacy-policy).
+This authorizes us to:
+Contact you about potential opportunities.
+Delete personal data not required at this application stage.
+To withdraw consent, email dpo@scientecconsulting.com.
+All applications will be processed with strict confidence. Only shortlisted candidates will be contacted.
+
+Elane Yap Theng Yu- R1989397
+ScienTec Consulting Pte Ltd - 11C5781"
+Devops Engineer | AWS,SCIENTEC CONSULTING PTE. LTD.,https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-aws-scientec-consulting-ca5b1341032197387fa7933d19116bcf?source=MCF&event=Search,"Roles & Responsibilities
+DevOps Engineer
+
+Working Location: Central
+Working Hours: Office hours (Hybrid Working Arrangements)
+Remuneration Package: $7,500 + AWS + Variable Bonus
+
+We have a great opportunity for a talented and self-motivated DevOps Engineer to join our team. You will work together in a team that are responsible for automated deployments, ensuring highest reliability and scalability processes for serving the needs from different departments.
+
+Roles and Responsibilities
+Collaborate with various teams that includes Development/Infra/Products to ensure successful delivery, maintenance planning and correction of build errors.
+Day-to-day monitoring, backup, deployment and maintenance of systems
+Develop/build/maintain continuous integration/deployment (CI/CD) pipelines and automated testing to support high quality software build in a continuous build/deploy environment (Jenkins Pipeline/Library)
+Writing scripts/programs for service monitoring and health check of systems
+Automate and build up scalable systems/environment using latest technologies (e.g. Kubernetes) with infrastructure-as-code and GitOps strategy
+Automate security hardening in testing, deployment and production setup based on industrial best practices
+Provide technical insights for the design and implementation of solutions.
+Promote a Dev Ops culture through building relationships with Development & Operations and driving enhancements to the end-to-end release process (workstation to production).
+Continuously identifying new tools, ideas to improve whole process of Production systems.
+Strong self learning ability, motivation to work on new Technologies.
+Any other duties assigned by the Team Lead/Solution Architect
+Requirements:
+Degree in Computer Science or equivalent or 3+ years in system administration or DevOps.
+Expertise in cloud platforms (AWS, GCP, Azure), CI/CD tools (Jenkins, GitLab), and infrastructure-as-code (Terraform, Ansible).
+Proficient in containerization (Docker, Kubernetes) and monitoring tools (Grafana, Prometheus).
+Experience with automation (Bash, Python) and DevSecOps practices.
+Familiar with microservices, APM tools (Jaeger, AWS X-Ray), and security solutions (Vault, Keycloak).
+Strong system administration skills (Ubuntu/Debian).
+AWS certification a plus.
+Strong problem-solving, communication, and interpersonal skills.
+""By submitting your resume, you consent to the collection, use, and disclosure of your personal information per ScienTec’s Privacy Policy (scientecconsulting.com/privacy-policy).
+
+This authorizes us to:
+Contact you about potential opportunities.
+Delete personal data not required at this application stage.
+To withdraw consent, email dpo@scientecconsulting.com.
+All applications will be processed with strict confidence. Only shortlisted candidates will be contacted.
+
+Aloysius Tan Sheng Rong - R22110441
+ScienTec Consulting Pte Ltd - 11C5781"
+Lead DevOps Engineer,VANGUARD SOFTWARE PTE. LTD.,https://www.mycareersfuture.gov.sg/job/information-technology/lead-devops-engineer-vanguard-software-0faf55555474a2e65df82d7393aecb24?source=MCF&event=SuggestedJob,"Roles & Responsibilities
+JOB SUMMARY
+
+As a Lead DevOps Engineer, you will be responsible for leading a team of DevOps engineers to design, implement, and maintain the infrastructure, tools, and processes needed to support continuous integration, continuous delivery (CI/CD), and automated deployment of software applications. You will collaborate with cross-functional teams, including development, operations, and quality assurance, to streamline and optimise software development and delivery pipelines. Additionally, you will provide technical leadership, mentorship, and guidance to the team to drive innovation, improve efficiency, and ensure high availability and reliability of our systems.
+
+JOB DUTIES
+Lead a team of DevOps engineers to design, implement, and maintain CI/CD pipelines for automated build, test, and deployment of applications using tools like Jenkins, GitLab CI/CD.
+Develop and maintain infrastructure as code (IaC) using tools like Terraform, CloudFormation, or Ansible to automate the provisioning and configuration of infrastructure resources.
+Configure and manage container orchestration platforms like Kubernetes, Docker Swarm, or Amazon ECS for containerized application deployment and management.
+Implement and manage monitoring, logging, and alerting solutions to ensure the health, performance, and security of infrastructure and applications using tools like Prometheus, Grafana, ELK Stack, or AWS CloudWatch.
+Develop, maintain, and organise documentation related to infrastructure, processes, and procedures in a central repository or knowledge base.
+Collaborate with development teams to optimise application performance, troubleshoot issues, and implement best practices for scalability, reliability, and security.
+Provide technical leadership and guidance to the team in designing, implementing, and maintaining DevOps processes, tools, and infrastructure
+Conduct code reviews, design reviews, and architecture reviews to ensure code quality, maintainability, and scalability.
+Manage release process of software applications and services for staging and production environments.
+Work closely with security teams to implement and enforce security policies, standards, and practices across infrastructure and applications.
+Drive automation initiatives to streamline repetitive tasks, workflows, and processes and improve efficiency.
+Participate in capacity planning, load testing, and performance optimization activities to ensure optimal performance and scalability of our systems.
+Analyse cloud infrastructure usage and spending patterns to identify opportunities for cost optimization and resource utilisation improvement.
+Implement cost-saving strategies such as rightsizing instances, leveraging reserved instances, and optimising storage solutions to reduce cloud expenses.
+Monitor and track cloud costs and usage metrics, and provide recommendations for optimising resource allocation and usage efficiency.
+Mentor and coach team members, foster a culture of continuous learning and improvement, and promote collaboration and knowledge sharing within the team.
+Stay updated with emerging technologies, industry trends, and best practices in DevOps, cloud computing, and software development.
+JOB REQUIREMENTS
+Bachelor's degree in Computer Science, Engineering, or related field.
+Proven experience working as a DevOps Engineer or similar role in a leadership capacity, leading and mentoring a team of engineers.
+Strong understanding of DevOps principles, methodologies, and practices.
+Proficiency in scripting and programming languages such as Python or Shell.
+Hands-on experience with CI/CD tools, version control systems (e.g., Git), and build automation tools.
+Experience with cloud computing platforms such as AWS, Azure, or Google Cloud Platform.
+Knowledge of containerization and orchestration technologies like Docker, Kubernetes, or ECS.
+Excellent problem-solving skills, attention to detail, and ability to work collaboratively in a team environment.
+Experience with incident management, post-mortem analysis, and root cause analysis (RCA) processes.
+Knowledge of infrastructure security best practices and tools for securing cloud infrastructure and applications.
+Excellent leadership, communication, and interpersonal skills, with the ability to effectively lead and collaborate with cross-functional teams.
+Strong communication and interpersonal skills, with the ability to effectively communicate technical concepts to non-technical stakeholders.
+Willingness to travel to meet and work with offshore team members.
+Fluency in written and spoken English and Mandarin is highly desirable to liaise with Chinese speaking clients and counterparts."
+DevOps with Site Reliability Engineer (Banking Industry),LUXOFT INFORMATION TECHNOLOGY (SINGAPORE) PTE. LTD.,https://www.mycareersfuture.gov.sg/job/information-technology/devops-site-reliability-engineer-luxoft-information-technology-5065d2046b097652b47cd95827eccc6f?source=MCF&event=Search,"Roles & Responsibilities
+With award-winning mobile banking apps and trading systems, our technology platforms help Bank deliver best-in-class products to clients. Naturally, we make sure that the phones work, emails are delivered and PCs run - but we also develop innovative collaboration platforms and workspaces that help our people share their knowledge, their expertise and their passion for our business.
+
+Developments in technology are changing the way we communicate, work and even think. Join us here, and you'll constantly be looking ahead. We'll look to you to capitalize on new technological trends that can reshape our business and deliver value for our clients, whilst still meeting the demands of customers, regulators and the markets.
+
+Project goal is to decomins existing platform and create a new payment platform using new technologies:
+
+Technology stack includes Java 11, Spring, Oracle DB, Kafka, Solace JMS, Apache Tomcat, Web services, , HTML5, Node.js, Git, Python, JIRA, Confluence, Jenkins / TeamCity, Docker / Kubernetes, SDLC, Sonar, Geneos
+
+Payments is a core product for Cash Management and one of the growth areas in Bank’s strategy. In order to support the growth ambitions and to remain a leading global player in the competitive payments market, significant investment in the payment infrastructure of Bank is applied.
+The team is delivering set of key applications in Payment integration platform which are single entry point for all payments not only in Corporate Bank but across the entire Enterprise. Monthly processing volume of the applications is over €100 Billion of payment transactions across 42 countries from Europe, APAC and Americas.
+As a Senior Site Reliability Engineer (m/f/x) you will be responsible for providing the DevOps function delivering the required target state and availability for the infrastructure, working closely with Development Team, L2/3 Support Team, and peer DevOps and Site Reliability Engineer teams
+Responsibilities:- CI/CD setup, management and improvement: automate build and deployment pipelines and procedures;
+- application infrastructure support including hardware, networks, OS, frameworks and related tools;
+- test environments support;
+- follow internal security operations procedures. Application and infrastructure audit compliance;
+- deploy application releases, provide SL3 application on-call rota / weekend support;
+- perform root cause analysis of production errors and resolve technical issues;
+- cover monitoring and alerting needs.
+- self motivated individual to perform tasks on his own
+- certificate installations / renewal
+- compliance related changes for application based on internal compliance requirements
+Mandatory Skills:JIRA Structure
+Linux
+Shell Scripting
+Site Reliability Engineer (SRE)
+UNIX
+Mandatory Skills Description:- 5+ years experience as a DevOps/SRE engineer or in a similar software engineering role;
+- 5+ years experience with Linux diagnosis and support, deep bash knowledge;
+- 5+ years experience with python coding;
+- strong TCPIP;
+- 5+ years experience with CI/CD: jenkins, build/test full flow support (support, development and improvement), groovy, artifactory;
+- application release cycle experience: release engineer, SL3 support;
+- IaC: ansible, git;
+- docker experience;
+- proficiency with monitoring;
+- basic SQL;
+- analytical thinking;
+- good verbal and writing communication skills;
+- proactive approach to identifying problems, performance bottlenecks, and areas for improvement;
+- be independent in assigned tasks and projects, work as a team in responsibility area."
+Junior DevOps Engineer (Banking Industry),LUXOFT INFORMATION TECHNOLOGY (SINGAPORE) PTE. LTD.,https://www.mycareersfuture.gov.sg/job/banking-finance/junior-devops-engineer-luxoft-information-technology-bf5abf61b0e7bc9b59c41835ca97c6de?source=MCF&event=Search,"Roles & Responsibilities
+Project Description:Our client is the corporate and investment banking arm of The Group, world's 12th largest bank by total assets.
+We work daily with international branches located in 30 markets by:
+- Envisioning and preparing the Bank's futures information systems
+- Partnering and supporting core banking flagships and transverse areas in their large scale development projects.
+- Providing premium In-house Banking applications,
+This unique positioning empowers us to bring our core banking business a sustainable competitive advantage on the market.
+We seek innovative and agile people sharing our mindset to support ambitious and forthcoming technological challenges.
+
+Embark on a transformative career journey as an Intermediate DevOps Engineer in our Capital Market Department! Join a forward-thinking team committed to revolutionizing financial technology.
+
+As a DevOps Engineer, you will be immersed in real life projects, shaping the future of capital markets software. Unleash your creativity, collaborate with industry leaders, and drive innovation that sets new standards. This is your chance to be a catalyst for change and make your mark in the dynamic world of capital markets. You will have the support and guidance of an identified subject matter expert, as well as being in part of the various communities.
+
+Capital Markets IT involves technology solutions and systems used in financial markets for trading, investment, and related activities. This includes electronic trading platforms, risk management systems, market risk, counterparty risk, algorithmic trading, data analytics, and Regulatory measures. The use of advanced technologies like blockchain and artificial intelligence is also becoming increasingly prevalent in capital markets to enhance efficiency and decision-making processes
+
+You will perform below main roles:
+• Industrialization: Implement all necessary tools to manage the environments, the continuous integration, the continuous delivery and the processes execution.
+• Environments: Manage and administrate environments from assembly to production (rules included), infrastructure implementation, and operational usage.
+• Operations: Execute the maintenance operations, delivery and environment monitoring.
+• L3: Operate as L3 on non-production environments for delivery teams and on production for support teams.
+Responsibilities:• Participate to the automation of the deployment solution.
+• Participate in environment preparation for testing phases.
+• Participate in developing tools to simplify day-to-day activities on the program.
+• Facilitate coordination between program developers and infrastructure engineers.
+and Design, develop and test code using a modern CI-CD pipeline.
+• Implement proactive measures to enhance system reliability and performance.
+• Provide investigation help while fostering knowledge and sharing best practices with team members.
+• Stay updated on industry trends, emerging technologies, and regulatory changes relevant to capital markets.
+• Document processes and ensure their properly followed.
+• The position requires autonomy and reliability in performing duties while maintaining close communication with rest of project/support team.
+Mandatory Skills:AWS
+DevOps
+Mandatory Skills Description:• Master or Bachelor's degree in Computer Science/ Information Technology/ Programming & Systems Analysis/ Science (Computer Studies) faculties.
+• 2+ years experience in DevOps or Software development.
+• AWS (preferably) or GCP Cloud Certified
+• Experience in DevOps methodology & tools like GIT, Maven/Graven/Nuget/Ansible, Jenkins/TeamCIty, Ansible, CI/CD pipeline.
+• Any Object-oriented language experience (e.g., Java / ,Net)
+• Strong knowledge in UNIX platform and any relational DB and language (SQL/Oracle/Sybase/BigData)
+• Proficiency in scripting languages (Python/ Shell script/PowerShell/ SQL) for automation and monitoring.
+• Experience with Docker/Kurbernetes and Liquibase.
+• Excellent communication and interpersonal skills to effectively collaborate with diverse teams.
+• Excellent problem-solving and analytical skills.
+• Ability to work under pressure.
+• Appetite to follow technology trend and participate to communities.
+• Eagerness to learn and adapt to new technologies.
+• Strong perseverance and diligence towards attaining goals and effective time management
+• Passion for sharing expertise and grow team members' skills.
+• Autonomous, self-motivated and excellent team player
+Nice-to-Have Skills Description:• Domain-Driven design and Microservices: springboot
+• Any testing automation tools and frameworks (e.g., JUnit, TestNG, Selenium)
+• Experience in supporting capital market applications and trading systems, ideally within the dynamic landscape of Market Risk/Front Office operations with a commendable grasp of financial products (Treasury, FX, Credit, IRD, Bonds, RSF etc.)
+• Valuable exposure to tools & technologies like Elastic Search, Grid computing, Grafana, Prometheus, Kibana, Control-M, KAFKA, Confluence, Jira, Tableau, PowerBI, MQ Series."
+Senior DevOps Engineer,ACRONIS ASIA RESEARCH AND DEVELOPMENT PTE. LTD.,https://www.mycareersfuture.gov.sg/job/information-technology/senior-devops-engineer-acronis-asia-research-development-0a740e86e8ab087c1eaf73e405bf23c8?source=MCF&event=Search,"Roles & Responsibilities
+Acronis is revolutionizing cyber protection—providing natively integrated, all-in-one solutions that monitor, control, and protect the data that businesses and lives depend on. We are looking for Senior DevOps Engineer to join our mission in creating a #CyberFit future.
+
+The Senior DevOps Developer will join Acronis DevOps team who will be responsible for design and development of Continuous Deployment processes and tools for Acronis Cyber Cloud components.
+
+Acronis Cyber Cloud is a platform that delivers data protection services across the globe with an unprecedented level of ease. With one installation, customers gain access to backup, disaster recovery, file sync and share, notarization and e-signature services, all managed from a single console.
+
+What you'll do
+Design, develop, and maintain SDLC pipelines to support software development, testing, deployment, and security.
+Collaborate with development teams to integrate SDLC pipelines into the development workflow
+Monitor and optimize pipeline performance, ensuring high availability and reliability
+Ensure compliance with industry best practices and security standards
+Provide training and support to development teams on pipeline usage and best practices
+Stay current with industry trends and advancements in SDLC tools and methodologies
+Building and maintaining hybrid (private/public clouds) deployment of Acronis Cyber Cloud (ACC) platform for Acronis R&D, Acronis Datacenters and Acronis on premise customers around the world
+Contributing to Ansible and Jenkins code for the Acronis Cyber Cloud deployments
+Helping develop the k8s ecosystem inside Acronis
+Improving developer experience via tooling to simplify work with their services both during development and in production
+What you bring (experience & qualifications)
+5+ years’ experience in building commercial software
+2+ years’ experience of building and supporting Continuous Delivery systems
+1+ year practical experience with cloud IaaS/PaaS (Azure, GCP)
+Strong Linux administration skills
+Strong Kubernetes skills (review K8s code, design business applications using K8s patterns)
+Knowledge in the network stack (you should know about NGINX, DNS, DHCP, PXE and the difference between firewall, routing, NAT).
+Go lang programming skills (Develop and maintain K8s operators and patching K8s parts)
+Strong scripting skills (Python, Bash)
+Strong technical troubleshooting skills (localize the problem in a reasonable time)
+Strong communication skills
+Fluent English
+Will be a plus:
+Experience with configuration management tools (Ansible, Puppet or Chef)
+Experience with integrating security tools (e.g., SAST, DAST, SCA) into CI/CD pipelines
+Hands-on knowledge of virtualization layers (KVM, ESX, Virtuozzo/OpenVZ)
+Knowledge of distributed micro-services-based architectures problems and best practices
+Centralized monitoring (Prometheus, Graphite), alerting (Alerta) and logging (ELK, EFK) systems management experience
+Basic database administration skills (Postgres, Mysql)
+Experience with integration with Atlassian stack (Bitbucket, Jira)
+More facts about us:
+100+ components with their own complex CI/CD
+CI/CD with Jenkins + python tools
+Internal RnD private cloud based on oVirt/OpenStack (KVM)
+Prometheus as monitoring
+ELK as centralized logging
+Ansible as configuration system
+Infrastructure is based on: Kubernetes, Virtuozzo, Docker
+Atlassian stack (Jira, Bitbucket, Confluence)
+WHO WE ARE
+Acronis is a global cyber protection company that provides natively integrated cybersecurity, data protection, and endpoint management for managed service providers (MSPs), small and medium businesses (SMBs), enterprise IT departments and home users. Our all-in-one solutions are highly efficient and designed to identify, prevent, detect, respond, remediate, and recover from modern cyberthreats with minimal downtime, ensuring data integrity and business continuity. We offer the most comprehensive security solution on the market for MSPs with our unique ability to meet the needs of diverse and distributed IT environments.
+A Swiss company founded in Singapore in 2003, Acronis offers over twenty years of innovation with 15 offices worldwide and more than 1800 employees in 50+ countries. Acronis Cyber Protect is available in 26 languages in 150 countries and is used by over 20,000 service providers to protect over 750,000 businesses.
+Our corporate culture is focused on making a positive impact on the lives of each employee and the communities we serve. Mutual trust, respect and belief that we can contribute to the world everyday are the cornerstones of our team. Each member of our “A-Team” plays an instrumental role in driving the success of our innovative and expanding business. We seek individuals who excel in dynamic, global environments and have a never give up attitude, contributing to our collective growth and impact.
+Acronis is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, marital status, national origin, physical or mental disability, medical condition, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, gender identity or expression, or any other characteristic protected by applicable laws, regulations and ordinances"
+DevOps Engineer,ASTEK SINGAPORE INNOVATION TECHNOLOGY PTE. LTD.,https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-astek-singapore-innovation-technology-83fb50c77c6a2e6ede8b2aed4e88aa09?source=MCF&event=Search,"Roles & Responsibilities
+ASTEK has been providing IT and Engineering solutions for some of the world’s largest industrial and services groups for more than 35 years with 10,000 passionate experts in 22 countries throughout Europe, APAC, Middle East and the Americas
+
+Currently, we are looking for DevOps Engineer which would be based in Singapore
+
+Responsibilities and requirements:
+· Bachelor’s degree in computer science/information technology or related field with minimum 5 years of strong software engineering experience with proficiency in at least one of these languages: JavaScript, Java, Python, or .NET
+· Must have experirnce in artifact repository management systems - JFrog
+· Experience with containerization technologies, such as Docker, Kubernetes, EKS, Helm. Relevant certifications are advantageous
+· Minimum 3 years of AWS experience with solid understanding of Cloud services and infrastructure management. AWS certifications are advantageous
+· Proven experience in infrastructure as code tools, such as Terraform and CloudFormation
+· Experience in log aggregation and observability tools, such as CloudWatch, Splunk and Datadog
+· Proficiency in CI/CD workflows and GitHub Action
+· Strong Linux administration skills and Shell scripting expertise
+· Demonstrate ability to optimize developer workflows and enhance developer experience
+· Experience in diagnosing and resolving complex system issues across multiple technology layers"
+DevOps Automation Engineer (Infrastructure),MOHAN MANAGEMENT CONSULTANTS PTE LTD,https://www.mycareersfuture.gov.sg/job/information-technology/devops-automation-engineer-ascendion-engineering-solutions-singapore-d4ed9c9de352a0303dc39f3c76d54817?source=MCF&event=Search,"Roles & Responsibilities
+On behalf of our client we are looking for DevOps Automation Engineer (Infrastructure) to work one on one basis on various tasks.
+
+Job Role
+This position calls for someone who possesses a good infrastructure automation background and works proactively to drive results. This person is a self-starter, flexible, has a high level of integrity and is action and goal-oriented in a fast-paced, team-oriented, collaborative environment.
+Serve as a primary point of contact for infrastructure automation configuration via Terraform, Ansible, Python, Cloud Formation
+Responsible for the overall health, performance, and capacity of our Internet-facing services Create dashboards and other tools for DevOps to use in day-to-day monitoring and troubleshooting
+Perform advanced troubleshooting and monitoring of the systems to ensure SLAs are met
+Collaborate with other engineering teams on design and expansion of our infrastructure
+Assist in the roll-out and deployment of new product features and installations to facilitate our rapid iteration and constant growth
+Work closely with development teams to ensure that platforms are designed with operability in mind
+Drive standardization efforts across multiple services Identify and lead efforts to improve automation
+Participate in an on-call rotation Function well in a fast-paced, rapidly changing environment
+Your Experience
+5+ years of DevOps or Site Reliability experience in Infra Automation Experience in designing and building and Test Automation Frameworks for cloud-based products from ground up
+Experience with Automation Tools such as Ansible, Terraform, Puppet Experience with Continuous Integration Tools – Jenkins Solid Experience with AWS – EC2, S3, ELB, Auto Scale, CloudFormation Experience with Data Monitoring Tools – Nagios, Grafana, Cloudwatch etc…
+Strong interpersonal communication skills Experience with Apache/Nginx Experience with Kernel and network based tuning for performance and stability
+B.S. or higher in Computer Science or other technical discipline.
+
+Kindly be informed that only shortlisted candidates will be contacted.
+Gomes Divya.
+P: +65 6631 8505 (Ext 405)
+EA License no: 19C9769
+E: divya@mohanmc.com
+Personnel Registration no: R22108982"
+Senior DevOps Engineer,CLOUD KINETICS CONSULTING PTE. LTD.,https://www.mycareersfuture.gov.sg/job/information-technology/senior-devops-engineer-cloud-kinetics-consulting-38e4acc3c4f5684aa750cbe2ea8e551a?source=MCF&event=Search,"Roles & Responsibilities
+Responsibilities & Duties
+Focused towards working with customers to ensure smooth delivery of projects as part of our professional services team
+Work in tandem with pre-sales/solution architects and project manager, to identify and implement the most optimal cloud-based, hybrid or on-premises solutions for customers
+Ensure infrastructure and application performance, uptime, and scalability while maintaining high services delivery standard though a robust architecture design and implementation
+Involved in discussion with solution architects, customers, and external vendors/partners to define cloud strategy and technical solutions, including scope and implementation plans, preferably in AWS and Azure.
+Assist with researching, evaluating, and recommending cloud related technologies, software, hardware and services as part of the total solution
+Deliver cloud, virtualization, and data storage related projects including architecture design, planning, installation, and configuration of cloud and on-premise infrastructure services
+Experience in DevOps methodology & tools like GIT, Maven/Graven/Nuget/Ansible, Jenkins/TeamCIty, Ansible, CI/CD pipeline.
+Deep understanding of configuration management tools like Ansible.
+Deep understanding of operating CI/CD tools at scale with best practices.
+Deep understanding of GitOps and ArgoCD or similar tools for continuous deployment.
+Carrying out installation, configuration, monitoring, testing and management tasks associated within the cloud and on-premise infrastructure
+Drive automation of operational activities, health checks, capacity, and performance monitoring
+Troubleshoot and perform root cause analysis as well as implementing corrective/preventive actions when needed
+Responsible for day-to-day customer support and administration of cloud services as required if not involved in project implementations.
+Define and document best practices and operational procedures regarding solution deployment and infrastructure maintenance to ensure a smooth handover to customers or managed services team
+Perform periodic after-hours/weekend support when required
+Any other projects/duties as assigned by superior.
+Develop and maintain Terraform configurations for multi-cloud environments, Integrate Terraform with CI/CD pipelines for automated infrastructure deployments.
+Set up and manage Terraform Enterprise environments
+Any other tasks/projects assigned."
+DevOps Engineer,BULLISH SG LLP,https://www.mycareersfuture.gov.sg/job/engineering/devops-engineer-bullish-sg-b93340e15afba681313e588a24e3e8a4?source=MCF&event=Search,"Roles & Responsibilities
+
+About Bullish.com
+
+The Bullish Group has built an ecosystem focused on developing financial services for the digital assets sector through technology and investment businesses. These include: Bullish Exchange - digital asset trading services that utilize central limit order matching and proprietary market making technology to deliver deep liquidity and tight spreads within a compliant framework. The business is licensed by the Hong Kong SFC, German Federal Financial Supervisory Authority (BaFIN), and the Gibraltar Financial Services Commission. Since its launch in November 2021, Bullish Exchange has surpassed US$1.1 trillion in total trading volume, with 2H 2024 volume exceeding US$2 billion per day. Bullish Capital - an investment company which offers strategic capital, industry expertise and an extensive network of resources to support initiatives that connect conventional finance with the revolutionary possibilities of the digital economy. CoinDesk - an award-winning media, events, indices and data business servicing the global crypto economy.
+
+Team Overview:
+Join our Global DevOps team, spanning APAC and the US, where experienced and passionate engineers drive automation and tooling around CI/CD. We focus on enabling a smooth Software Development Life Cycle (SDLC) for our engineers and stakeholders. Our team is responsible for developing and supporting pipelines, deployment strategies, secret management, and other tools that enhance operational efficiency.
+
+Position Overview:
+As a Senior DevOps Engineer, you should have an insatiable appetite for automation and innovative solutions. You will play a pivotal role in designing, implementing, and maintaining our CI/CD infrastructure and deployment pipelines. You will collaborate closely with application development, operations, and security teams to ensure seamless integration and delivery of our applications. Your expertise in Kubernetes, Helm, Terraform, Google Cloud Platform (GCP), Python, Bash, Ansible, and ArgoCD will be essential in advancing our DevOps initiatives.
+
+Key Responsibilities:
+Develop and maintain CI/CD pipelines using tools like Buildkite and other tools to ensure efficient and reliable software delivery.
+Manage Kubernetes application delivery at scale using tools like Helm, Kustomize or other similar technologies, ensuring high availability and performance.
+Automate infrastructure provisioning and configuration management using IaC tools like Terraform.
+Collaborate with development teams to optimize application performance and scalability.
+Implement security best practices and ensure compliance with industry standards.
+Align with the organization’s DevOps strategy and drive its implementation.
+Design infrastructure that supports our architecture and accelerates feature delivery.
+Stay informed on industry trends, shape best practices, and drive innovation.
+Qualifications:
+Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent experience.
+7+ years of experience in a DevOps or similar role, with a focus on cloud-based infrastructure.
+Strong understanding of Linux/Unix systems, OS fundamentals and networking concepts.
+Strong programming skills in Python and Bash for scripting and automation tasks.
+Proficiency with Kubernetes for container orchestration in Production environments.
+Proficiency with Hashicorp tools like Terraform for Infrastructure-as-Code (IaC) and Packer.
+Deep understanding of configuration management tools like Ansible.
+Deep understanding of cloud platforms like GCP or AWS.
+Deep understanding of operating CI/CD tools at scale with best practices.
+Deep understanding of GitOps and ArgoCD or similar tools for continuous deployment.
+Familiarity with serverless technologies like Lambdas, Cloud Run or equivalent.
+Strong problem-solving skills and the ability to work independently and as part of a team.
+Excellent communication skills and the ability to collaborate effectively with cross-functional and cross-regional teams.
+Strong organizational skills to manage multiple projects simultaneously.
+Preferred Qualifications:
+Experience with CI/CD systems such as Buildkite.
+Experience with Google Cloud Platform (GCP).
+Experience with setting up CI/CD for Java projects with Gradle.
+Experience with microservices architecture and containerization.
+Certification in Kubernetes, GCP, Terraform, or related technologies.
+Experience working in regulated and audited environments - financial institutions etc.
+
+Bullish is proud to be an equal opportunity employer. We are fast evolving and striving towards being a globally-diverse company. With integrity at our core, our success is driven by a talented team of individuals and the different perspectives they are encouraged to bring to work every day."
