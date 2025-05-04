@@ -113,3 +113,9 @@ def run_scraper_and_return_data(job_query, min_salary):
         print("❌ No job data collected.")
 
     return logs, job_data
+
+if __name__ == "__main__":
+    job_role = input("Enter job role to search: ").strip()
+    min_salary = input("Enter minimum salary (or leave blank to skip): ").strip()
+    logs, jobs = run_scraper_and_return_data(job_role, min_salary)
+

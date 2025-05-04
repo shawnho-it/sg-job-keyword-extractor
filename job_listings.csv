@@ -1,112 +1,83 @@
 title,company,url,description
-DevOps Engineer,BULLISH SG LLP,https://www.mycareersfuture.gov.sg/job/engineering/devops-engineer-bullish-sg-b93340e15afba681313e588a24e3e8a4?source=MCF&event=Search,"Roles & Responsibilities
-
-About Bullish.com
-
-The Bullish Group has built an ecosystem focused on developing financial services for the digital assets sector through technology and investment businesses. These include: Bullish Exchange - digital asset trading services that utilize central limit order matching and proprietary market making technology to deliver deep liquidity and tight spreads within a compliant framework. The business is licensed by the Hong Kong SFC, German Federal Financial Supervisory Authority (BaFIN), and the Gibraltar Financial Services Commission. Since its launch in November 2021, Bullish Exchange has surpassed US$1.1 trillion in total trading volume, with 2H 2024 volume exceeding US$2 billion per day. Bullish Capital - an investment company which offers strategic capital, industry expertise and an extensive network of resources to support initiatives that connect conventional finance with the revolutionary possibilities of the digital economy. CoinDesk - an award-winning media, events, indices and data business servicing the global crypto economy.
-
-Team Overview:
-Join our Global DevOps team, spanning APAC and the US, where experienced and passionate engineers drive automation and tooling around CI/CD. We focus on enabling a smooth Software Development Life Cycle (SDLC) for our engineers and stakeholders. Our team is responsible for developing and supporting pipelines, deployment strategies, secret management, and other tools that enhance operational efficiency.
-
-Position Overview:
-As a Senior DevOps Engineer, you should have an insatiable appetite for automation and innovative solutions. You will play a pivotal role in designing, implementing, and maintaining our CI/CD infrastructure and deployment pipelines. You will collaborate closely with application development, operations, and security teams to ensure seamless integration and delivery of our applications. Your expertise in Kubernetes, Helm, Terraform, Google Cloud Platform (GCP), Python, Bash, Ansible, and ArgoCD will be essential in advancing our DevOps initiatives.
-
-Key Responsibilities:
-Develop and maintain CI/CD pipelines using tools like Buildkite and other tools to ensure efficient and reliable software delivery.
-Manage Kubernetes application delivery at scale using tools like Helm, Kustomize or other similar technologies, ensuring high availability and performance.
-Automate infrastructure provisioning and configuration management using IaC tools like Terraform.
-Collaborate with development teams to optimize application performance and scalability.
-Implement security best practices and ensure compliance with industry standards.
-Align with the organization’s DevOps strategy and drive its implementation.
-Design infrastructure that supports our architecture and accelerates feature delivery.
-Stay informed on industry trends, shape best practices, and drive innovation.
-Qualifications:
-Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent experience.
-7+ years of experience in a DevOps or similar role, with a focus on cloud-based infrastructure.
-Strong understanding of Linux/Unix systems, OS fundamentals and networking concepts.
-Strong programming skills in Python and Bash for scripting and automation tasks.
-Proficiency with Kubernetes for container orchestration in Production environments.
-Proficiency with Hashicorp tools like Terraform for Infrastructure-as-Code (IaC) and Packer.
-Deep understanding of configuration management tools like Ansible.
-Deep understanding of cloud platforms like GCP or AWS.
-Deep understanding of operating CI/CD tools at scale with best practices.
-Deep understanding of GitOps and ArgoCD or similar tools for continuous deployment.
-Familiarity with serverless technologies like Lambdas, Cloud Run or equivalent.
-Strong problem-solving skills and the ability to work independently and as part of a team.
-Excellent communication skills and the ability to collaborate effectively with cross-functional and cross-regional teams.
-Strong organizational skills to manage multiple projects simultaneously.
-Preferred Qualifications:
-Experience with CI/CD systems such as Buildkite.
-Experience with Google Cloud Platform (GCP).
-Experience with setting up CI/CD for Java projects with Gradle.
-Experience with microservices architecture and containerization.
-Certification in Kubernetes, GCP, Terraform, or related technologies.
-Experience working in regulated and audited environments - financial institutions etc.
-
-Bullish is proud to be an equal opportunity employer. We are fast evolving and striving towards being a globally-diverse company. With integrity at our core, our success is driven by a talented team of individuals and the different perspectives they are encouraged to bring to work every day."
-Cloud Platform Engineer (AWS / DevOps),ALLEGIS GROUP SINGAPORE PRIVATE LIMITED,https://www.mycareersfuture.gov.sg/job/banking-finance/cloud-platform-engineer-allegis-group-singapore-d6ae1d86d987c393f36806bf72cf20c4?source=MCF&event=Search,"Roles & Responsibilities
-Location: Singapore (Hybrid – 4 days in office)
-TEKsystems is a leading provider of technology consulting, committed to delivering innovative solutions and exceptional service to our clients. We’re hiring a Cloud Platform Engineer to join a high-performing tech team at a leading institutional investment firm.
-🌐 About the Role
-You'll help build and scale a secure, cloud-native developer platform used by hundreds of backend engineers. This is part of a multi-year cloud transformation initiative designed to enhance developer efficiency and internal platform reliability.
-If you're an ex-software engineer who transitioned into DevOps or platform engineering — and you’re passionate about solving developer pain points at scale — this role is for you!
-🛠 What You’ll Do
-Build and support an internal cloud development platform as part of a cross-functional engineering team
-Collaborate with backend developers to understand workflows and improve developer experience
-Deploy and manage infrastructure on AWS using tools like Terraform, Docker, Kubernetes (EKS)
-Develop automation pipelines and CI/CD workflows using GitHub Actions, Jenkins, or similar tools
-Integrate monitoring and logging tools like CloudWatch, Datadog, Splunk for observability
-Maintain system performance, troubleshoot issues, and support platform scaling
-Work closely with engineering teams across departments to enable smooth cloud migration and adoption
-✅ What We’re Looking For
-We’re looking for someone with a strong software development background who has transitioned into DevOps or platform engineering.
-Must-Have Skills:
-4–5 years of experience in software engineering (Java, JavaScript, Python, or .NET)
-2+ years of hands-on experience with AWS (EKS, EC2, IAM, S3, VPC, etc.)
-Proficiency in containerization tools: Docker, Kubernetes, Helm
-Strong Linux administration and shell scripting skills
-Experience with Infrastructure-as-Code (Terraform or CloudFormation)
-Familiarity with CI/CD tools (e.g. GitHub Actions, GitLab CI, Jenkins)
-Working knowledge of logging/monitoring tools like Datadog, Splunk, CloudWatch
-Strong problem-solving skills and ability to work across teams
-Nice-to-Haves:
-Experience in cloud migration or internal developer platforms
-Experience with artifact management tools (e.g., JFrog Artifactory)
-Strong communication and documentation skills
-🧠 Who Will Succeed in This Role?
-This role is ideal for someone who:
-Has transitioned from backend development into DevOps/platform engineering
-Enjoys solving technical challenges that improve developer productivity
-Can explain systems clearly and collaborate across departments
-Brings a deep understanding of cloud infrastructure and developer workflows
-🌟 Why Join?
-Join a tech-driven, well-funded institution on a multi-year cloud transformation
-Be part of a team where engineers have the freedom to innovate and improve developer platforms
-Work on enterprise-scale systems with the latest cloud-native technologies.
-We regret to inform that only shortlisted candidates will be notified.
-
-EA registration number : Garey Gan Chia Wen, R24124837
-
-Allegis Group Singapore Pte Ltd, Company Reg No. 200909448N, EA License No. 10C4544"
-DevOps Engineer,IKAS INTERNATIONAL (ASIA) PTE. LTD.,https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-ikas-international-1c702bc21889c535c52bae6c0ab00902?source=MCF&event=SuggestedJob,"Roles & Responsibilities
-We are looking to speak to DevOps Engineers!
-
+DevOps Engineer - A25078,ACTIVATE INTERACTIVE PTE LTD,https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-a25078-activate-interactive-16a0be4d980a7103bf143c033201b7fc?source=MCF&event=Search,"Roles & Responsibilities
+Activate Interactive Pte Ltd (“Activate”) is a leading technology consultancy headquartered in Singapore with a presence in Malaysia and Indonesia. Our clients are empowered with quality, cost-effective, and impactful end-to-end application development, like mobile and web applications, and cloud technology that remove technology roadblocks and increase their business efficiency.
+We believe in positively impacting the lives of people around us and the environment we live in through the use of technology. Hence, we are committed to providing a conducive environment for all employees to realise their full potential, who in turn have the opportunity to continuously drive innovation.
+We are searching for our next team members to join our growing team.
+If you love the idea of being part of a growing company with exciting prospects in mobile and web technologies that create positive impact on people’s lives, then we would love to hear from you.
+Co-Development Business Unit is looking for DevOps Engineer
+This is a fixed term contract role. The engagement is from June 2025 to March 2026
+Internal Code: A25078
+What will you do?
+To support DevOps works based on cloud environment and CI/CD.
+Must be familiar with AWS Cloud. Experience using IAC frameworks such as AWS CDK, CI/CD configure in Gitlab and hands on experience of Cloud security are mandatory)
+What are we looking for?
+Design, implementation, test and operation of infrastructure and security architecture for clinical decision support system.
+Infrastructure architecture design and implementation based on the requirement provided by business/technical team
+Cloud environment and deployment management
+CI/CD pipeline design and implementation
+Security monitoring, enhancement and issue fix of project infrastructure
+Operation and maintenance of platform and tech support provisioning
+Documentation
+Tech design documentations for infrastructure and DevOps (e.g. architecture)
+Operational runbooks and other infra documents (e.g. admin manual, deployment manual, backup & restore plan, etc.)
+Security design documentations (e.g. security architecture design)
+Any other documents required for infra/devops maintenance
+Collaborating with other tech teams on service integration, deployment, debugging as needed.
+What do we offer in return?
+Fun working environment
+Employee Wellness Program
+Does it sound like something you are interested in exploring further? Please be in touch with our team for an initial chat at careers@activate.sg
+Activate Interactive Singapore is an equal opportunity employer. Employment decisions will be based on merit, qualifications and abilities. Activate Interactive Pte Ltd does not discriminate in employment opportunities or practices on the basis of race, colour, religion, gender, sexuality, national origin, age, disability, marital status or any other characteristics protected by law.
+Protecting your privacy and the security of your data are longstanding top priorities for Activate Interactive Pte Ltd.
+Your personal data will be processed for the purposes of managing Activate Interactive Pte Ltd’s recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results, and as is otherwise needed in the recruitment and hiring processes.
+Please consult our Privacy Notice (https://www.activate.sg/privacy-policy) to know more about how we collect, use, and transfer the personal data of our candidates. Here you can find how you can request for access, correction and/or withdrawal of your Personal Data.
+Apply for this job"
+DevOps Engineer (AWS Cloud / Kubernetes / Docker),SCIENTEC CONSULTING PTE. LTD.,https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-scientec-consulting-b67fdf0cf371b3479cc4f1b55d66a013?source=MCF&event=Search,"Roles & Responsibilities
+We have a great opportunity for a talented and self-motivated DevOps Engineer to join our team. You will work together in a team that are responsible for automated deployments, ensuring highest reliability and scalability processes for serving the needs from different departments.
+Working Hours: Mon-Fri
+Working Location: Singapore
+Salary Package: Up to $7500 (basic) + AWS + VB
 Responsibilities
-Participate to the automation of the deployment solution.
-Build, release, and deploy the platform on top of Jupyter Lab and Jupyter Hub;
-Monitor the health of the platform and plan its capacity;
-Secure the platform to prevent security breaches or unintended usage;
-Tailor the platform to support evolving customer needs.
-Monitor the results and quality of the different software solutions and projects implemented in the organisation
-Ensure continuous improvement and maintenance of the CI-CD pipeline.
-
+Collaborate with various teams that includes Development/Infra/Products to ensure successful delivery, maintenance planning and correction of build errors.
+Day-to-day monitoring, backup, deployment and maintenance of systems
+Develop/build/maintain continuous integration/deployment (CI/CD) pipelines and automated testing to support high quality software build in a continuous build/deploy environment (Jenkins Pipeline/Library)
+Writing scripts/programs for service monitoring and health check of systems which perform automated integration flow and alerting.
+Automate and build up scalable systems/environment using latest technologies (e.g. Kubernetes) with infrastructure-as-code and GitOps strategy
+Automate security hardening in testing, deployment and production setup based on industrial best practices
+Provide technical insights for the design and implementation of solutions.
+Promote a Dev Ops culture through building relationships with Development & Operations and driving enhancements to the end-to-end release process (workstation to production).
+Continuously identifying new tools, ideas to improve whole process of Production systems.
+Any other duties assigned by the Team Lead/Solution Architect
 Requirements
-Proficient in Linux, Docker, Kubernetes and Helm charts;
-Good experience with shell-scripting;
-Good experience with Git, ideally with Gitlab;
-Good experience with Continuous Delivery, ideally with ArgoCD;
-Good experience with Monitoring, ideally with Grafana;
-Hands-on experience with Python or a similar programming language.
+At least 3 years of relevant experience in devops and cloud platform: AWS/GCP/Azure (e.g. AWS: EC2, RDS, ELB, EFS, ELK, ElasticCache, S3, VPC, IAM, CloudWatch, KMS, AMK, EKS, MSK)
+Experienced with building and setting up high velocity and reliable CI/CD pipeline using tools/platforms such as Jenkins, Gitlab, Nexus, Maven, Spinnaker
+Proficiency with containers and cloud orchestration tools such as Docker, Kubernetes
+Hands on Infrastructure-as-Code control using tools such as Ansible AWX/Tower, RunDeck, Chef, Terraform, Puppet, Cloudformation and so on
+Ability to automate repeatable processes via scripts (e.g. via Terraform, bash, Powershell, Ruby, JS, Python, Groovy, etc.)
+AWS certification will be an added advantage
+By submitting your resume, you consent to the collection, use, and disclosure of your personal information per ScienTec’s Privacy Policy (scientecconsulting.com/privacy-policy).
+This authorizes us to:
+Contact you about potential opportunities.
+Delete personal data not required at this application stage.
+To withdraw consent, email dpo@scientecconsulting.com.
+All applications will be processed with strict confidence. Only shortlisted candidates will be contacted.
 
-""Sanderson-iKas"" is the brand name for iKas International (Asia) Pte Ltd, a company incorporated in Singapore under Company UEN No.: 200914065E with EA license number 16S8086.
-Website: www.sanderson-ikas.sg"
+Elane Yap Theng Yu- R1989397
+ScienTec Consulting Pte Ltd - 11C5781"
+DevOps Engineer,TOPPAN ECQUARIA PTE. LTD.,https://www.mycareersfuture.gov.sg/job/information-technology/devops-engineer-toppan-ecquaria-5803e6cc098dbacf07d7671871a23b4c?source=MCF&event=SuggestedJob,"Roles & Responsibilities
+Responsibilities
+Participate in the design, development, and deployment of new features, functionalities and maintenance of the StackOps platform.
+Collaborate with DevOps engineers to manage Elastic Cloud integrations, provisioning and configuration management for StackOps.
+Implement and maintain best practices for security, scalability, and performance of the StackOps platform.
+Proactively identify and implement improvements to enhance the scalability and reliability of the platform
+Provide technical support to government agencies using StackOps, including onboarding, troubleshooting, and configuration guidance.
+Stay up to date on the latest cloud technologies and monitoring best practices relevant to StackOps.
+Continuously improve documentation and develop training materials for StackOps users.
+Qualifications
+Proven experience in platform engineering, cloud operations, or a related field
+Strong understanding of monitoring tools, methodologies and configurations management
+Experience with infrastructure automation tools (e.g., Ansible, Terraform)
+Familiarity with DevOps principles and practices
+Excellent problem-solving and analytical skills
+Ability to work independently and as part of a team
+Strong communication and collaboration skills"
