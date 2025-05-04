@@ -10,7 +10,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # Set up headless browser
 options = Options()
-options.add_argument('--headless')
+#options.add_argument('--headless')
 options.add_argument('--disable-gpu')
 options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
@@ -19,7 +19,14 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), opti
 wait = WebDriverWait(driver, 10)
 
 job_query = input("Enter job role to search: ").strip().replace(" ", "%20")
-base_url = f"https://www.mycareersfuture.gov.sg/search?search={job_query}"
+min_salary = input("Enter minimum salary (or leave blank to skip): ").strip()
+
+# Construct URL with salary param if provided
+if min_salary:
+    base_url = f"https://www.mycareersfuture.gov.sg/search?search={job_query}&salary={min_salary}"
+else:
+    base_url = f"https://www.mycareersfuture.gov.sg/search?search={job_query}"
+
 driver.get(base_url)
 
 job_data = []
