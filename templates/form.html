@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SG Job Scraper</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1 { font-size: 24px; }
+        .status { margin: 20px 0; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }
+        th { background-color: #f5f5f5; }
+    </style>
+</head>
+<body>
+    <h1>🔧 SG Job Scraper</h1>
+
+    <form method="POST">
+        <label>Job Role:</label><br>
+        <input type="text" name="job_role" required><br><br>
+
+        <label>Minimum Salary (optional):</label><br>
+        <input type="text" name="min_salary"><br><br>
+
+        <input type="submit" value="Scrape Jobs">
+    </form>
+
+    {% if logs %}
+        <div class="status">
+            <h3>Scraper Status:</h3>
+            <ul>
+                {% for line in logs %}
+                    <li>{{ line }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+
+    {% if jobs %}
+        <h3>Scraped Job Listings:</h3>
+        <table>
+            <tr>
+                <th>Title</th>
+                <th>Company</th>
+                <th>Description</th>
+                <th>URL</th>
+            </tr>
+            {% for job in jobs %}
+            <tr>
+                <td>{{ job.title }}</td>
+                <td>{{ job.company }}</td>
+                <td>{{ job.description[:150] }}...</td>
+                <td><a href="{{ job.url }}" target="_blank">View</a></td>
+            </tr>
+            {% endfor %}
+        </table>
+    {% endif %}
+</body>
+</html>
+
