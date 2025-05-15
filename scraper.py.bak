@@ -20,12 +20,7 @@ def run_scraper_and_return_data(job_query, min_salary):
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
 
-    # ✅ Match installed Chromium version exactly
-    driver = webdriver.Chrome(
-        service=Service(ChromeDriverManager(driver_version="136.0.7103.113").install()),
-        options=options
-    )
-
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     wait = WebDriverWait(driver, 10)
 
     driver.get(base_url)
