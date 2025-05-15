@@ -1,6 +1,11 @@
 pipeline {
   agent any
 
+  environment {
+    IMAGE_NAME = "job-scraper"
+    CONTAINER_NAME = "job-scraper-container"
+  }
+
   stages {
     stage('Clone Repo') {
       steps {
@@ -13,21 +18,17 @@ pipeline {
       }
     }
 
-    stage('Install Requirements') {
+    stage('Build Docker Image') {
       steps {
-        sh '''
-          python3 -m venv venv
-          . venv/bin/activate
-          pip install -r requirements.txt
-        '''
+        sh 'docker build -t $IMAGE_NAME .'
       }
     }
 
-    stage('Restart Gunicorn') {
+    stage('Run Container') {
       steps {
         sh '''
-          pkill gunicorn || true
-          nohup gunicorn --bind 0.0.0.0:5000 app:app &
+          docker rm -f $CONTAINER_NAME || true
+          docker run -d --name $CONTAINER_NAME -p 5000:5000 $IMAGE_NAME
         '''
       }
     }
