@@ -4,7 +4,12 @@ pipeline {
   stages {
     stage('Clone Repo') {
       steps {
-        git 'https://github.com/shawnho-it/sg-job-keyword-extractor.git'
+        checkout([$class: 'GitSCM',
+          branches: [[name: '*/reorg']],
+          userRemoteConfigs: [[
+            url: 'https://github.com/shawnho-it/sg-job-keyword-extractor.git',
+          ]]
+        ])
       }
     }
 
