@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage('Clone Repo') {
       steps {
-        git 'https://github.com/your-username/sg-job-keyword-extractor.git'
+        git 'https://github.com/shawnho-it/sg-job-keyword-extractor.git'
       }
     }
 
