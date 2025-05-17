@@ -13,6 +13,7 @@ pipeline {
           branches: [[name: '*/reorg']],
           userRemoteConfigs: [[
             url: 'https://github.com/shawnho-it/sg-job-keyword-extractor.git',
+            credentialsId: 'github-creds'
           ]]
         ])
       }
@@ -28,7 +29,10 @@ pipeline {
       steps {
         sh '''
           docker rm -f $CONTAINER_NAME || true
-          docker run -d --name $CONTAINER_NAME -p 5000:5000 $IMAGE_NAME
+          docker run -d \
+            --restart unless-stopped \
+            --name $CONTAINER_NAME \
+            -p 5000:5000 $IMAGE_NAME
         '''
       }
     }
